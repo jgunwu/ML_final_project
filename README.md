@@ -10,11 +10,9 @@ This repository contains the code and outputs for the BUSI70661 Machine Learning
 - `model.ipynb`  
   This notebook runs the modelling and portfolio backtest. The user can specify the start year and end year for the test period. The notebook then trains the model using the rolling walk-forward procedure, generates out-of-sample predictions, constructs the long-short portfolio, applies the cost schedule, and outputs the strategy results, figures, and performance summaries.
 
-- `figures/`  
-  Contains figures used in the final report.
 
-- `reports/`  
-  Contains report-related outputs, including the QuantStats tear-sheet and final report files.
+- `QuantStats_report/`  
+  Contains the QuantStats tear-sheets.
 
 ## How to Reproduce
 
