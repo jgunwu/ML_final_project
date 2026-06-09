@@ -1,6 +1,0 @@
-Repository URL for Group 7 C2O Coursework
-
-GitHub repository:
-https://github.com/jgunwu/ML_final_project.git
-
-This repository contains the code and notebooks used to reproduce the coursework report, figures, and QuantStats tear-sheet.
